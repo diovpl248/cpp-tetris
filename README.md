@@ -15,12 +15,11 @@
 > 제작 기간
 - 2018.04 ~ 2018.05 (1개월)
 
----
-
+> 역할
 - 메인씬 게임씬 제작
 - 주요 모듈 개발(블록 클래스, 충돌처리, 게임로직등)
 
-YouTubue: https://youtu.be/ZJy-3IEN0jU
+---
 
 * 메뉴씬: WINAPI_TETRIS/main.cpp
 * 게임씬: WINAPI_TETRIS/GameScene.h .cpp
@@ -28,3 +27,6 @@ YouTubue: https://youtu.be/ZJy-3IEN0jU
 * 주요 게임 로직: WINAPI_TETRIS/GameScene.cpp
 
 - ※ 클래스의 은닉성 캡슐화를 지키려고 했고, 코딩스탠다드를 정해서 코드를 작성함
+
+
+YouTubue: https://youtu.be/ZJy-3IEN0jU
