@@ -29,4 +29,4 @@
 - ※ 클래스의 은닉성 캡슐화를 지키려고 했고, 코딩스탠다드를 정해서 코드를 작성함
 
 
-YouTubue: https://youtu.be/ZJy-3IEN0jU
+YouTubue: https://youtu.be/po_-wIXlCjA
